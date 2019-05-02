@@ -13,7 +13,7 @@ import IPython.display as ipd
 
 import librosa.display
 
-audio_path = 'Greshan Ananda - Sihina Ahase.mp3'
+audio_path = 'Vidula Ravishara - Kawiya[Official Music Video].mp3'
 y , sr = librosa.load(audio_path)
 
 
